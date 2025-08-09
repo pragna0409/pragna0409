@@ -35,3 +35,4 @@ Hey 👋 I’m Pragna — a tech enthusiast from Bengaluru who loves turning ide
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pragna0409&theme=react-dark&area=true)
 
 
+
