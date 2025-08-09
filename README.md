@@ -3,12 +3,12 @@ Hey 👋 I’m Pragna — a tech enthusiast from Bengaluru who loves turning ide
 
 ## About Me 🚀
 
-✨ Fueled by curiosity and coffee since forever
-🔍 Exploring: Systems programming, cloud tech, and automation
-⚙️ Passionate about: Writing safe, scalable, and maintainable code
-🤝 Open to collaborating on: DevOps, cloud infrastructure, and systems projects
-💡 Comfortable with: Python, AWS basics, Linux, Bash scripting, and web developmen
-📫 How to reach me: **pragnabharadwaj09@gmail.com**
+**✨ Fueled by curiosity and coffee since forever**
+**🔍 Exploring: Systems programming, cloud tech, and automation**
+**⚙️ Passionate about: Writing safe, scalable, and maintainable code**
+**🤝 Open to collaborating on: DevOps, cloud infrastructure, and systems projects**
+**💡 Comfortable with: Python, AWS basics, Linux, Bash scripting, and web development**
+**📫 How to reach me: **pragnabharadwaj09@gmail.com****
 
 ## My Skills 🧠
 
