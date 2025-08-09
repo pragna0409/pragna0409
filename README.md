@@ -23,3 +23,15 @@ Hey 👋 I’m Pragna — a tech enthusiast from Bengaluru who loves turning ide
 - **[LinkedIn]**(https://www.linkedin.com/in/pragna-s-5aa682285/)
 
 
+### GitHub Stats
+
+![Pragna's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragna0409&show_icons=true&theme=radical)
+### GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pragna0409&theme=dark)
+
+### GitHub Activity Graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pragna0409&theme=react-dark&area=true)
+
+
