@@ -30,9 +30,5 @@ Hey 👋 I’m Pragna — a tech enthusiast from Bengaluru who loves turning ide
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pragna0409&theme=dark)
 
-### GitHub Activity Graph
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/pragna0409)
-
-
 
 
