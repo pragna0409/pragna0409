@@ -1,12 +1,14 @@
 # Hi there, I'm Pragna S Bharadwaj! 👋
+Hey 👋 I’m Pragna — a tech enthusiast from Bengaluru who loves turning ideas into clean, efficient code. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions. I started exploring web apps, moved into cloud and automation, and now I'm diving into GenAI and smart solutions that blend software with real-world impact.
 
 ## About Me 🚀
 
-I'm a passionate Full Stack Developer with experience in MERN stack. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
-
-- 🌱 Currently learning: AWS 
-- 🌍 Languages: ** **
-- 📫 How to reach me: **pragnabharadwaj09@gmail.com**
+✨ Fueled by curiosity and coffee since forever
+🔍 Exploring: Systems programming, cloud tech, and automation
+⚙️ Passionate about: Writing safe, scalable, and maintainable code
+🤝 Open to collaborating on: DevOps, cloud infrastructure, and systems projects
+💡 Comfortable with: Python, AWS basics, Linux, Bash scripting, and web developmen
+📫 How to reach me: **pragnabharadwaj09@gmail.com**
 
 ## My Skills 🧠
 
